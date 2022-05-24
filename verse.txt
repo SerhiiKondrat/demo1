@@ -6,5 +6,4 @@ is a simple reminder
 paradise lost
 enchanted
 
-conflict merge
 
